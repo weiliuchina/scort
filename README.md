@@ -1,4 +1,4 @@
 scort
 =====
 
-Source Code Optimization and Refactoring Tool
+Source Code Optimization and Refactoring Tool for Java
